@@ -48,9 +48,9 @@ bash <(curl -sSL https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/hidd
 در پایان یه خلاصه می‌بینی:
 
 ```
-  Default exit : 91.124.209.234
-  nl     exit   : 147.90.59.145  (Netherlands)
-  pl     exit   : 95.135.200.40  (Poland)
+  Default exit : 203.0.113.10
+  nl     exit   : 198.51.100.20  (Netherlands)
+  pl     exit   : 192.0.2.30     (Poland)
 ```
 
 ---
@@ -61,9 +61,9 @@ bash <(curl -sSL https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/hidd
 
 | کانفیگ | آی‌پی خروجی مورد انتظار |
 |--------|------------------------|
-| دامنه روی آی‌پی هلند | 147.90.59.145 |
-| دامنه روی آی‌پی لهستان | 95.135.200.40 |
-| دامنه روی آی‌پی آلمان | 91.124.209.234 |
+| دامنه روی آی‌پی هلند | 198.51.100.20 |
+| دامنه روی آی‌پی لهستان | 192.0.2.30 |
+| دامنه روی آی‌پی آلمان | 203.0.113.10 |
 
 ---
 

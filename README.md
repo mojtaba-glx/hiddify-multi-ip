@@ -1,5 +1,7 @@
 # 🌐 Hiddify Multi-IP Outbound
 
+[![README فارسی](https://img.shields.io/badge/README-فارسی-blue)](README.fa.md) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 > Make each server IP exit through its **own** IP — automatically. Built for **Hiddify Manager v10**.
 
 If you have a server with **multiple public IPs** (e.g. DE + NL + PL), Hiddify by default sends **all outbound traffic through the primary IP only**. This script fixes that: every connection that arrives on IP `X` exits through IP `X`, automatically and persistently.
@@ -48,9 +50,9 @@ The script will:
 At the end you'll see a summary like:
 
 ```
-  Default exit : 91.124.209.234
-  nl     exit   : 147.90.59.145  (Netherlands)
-  pl     exit   : 95.135.200.40  (Poland)
+  Default exit : 203.0.113.10
+  nl     exit   : 198.51.100.20  (Netherlands)
+  pl     exit   : 192.0.2.30     (Poland)
 ```
 
 ---
@@ -61,9 +63,9 @@ Connect to each config and visit [ipleak.net](https://ipleak.net):
 
 | Config | Expected exit IP |
 |--------|------------------|
-| Domain on NL IP | 147.90.59.145 |
-| Domain on PL IP | 95.135.200.40 |
-| Domain on DE IP | 91.124.209.234 |
+| Domain on NL IP | 198.51.100.20 |
+| Domain on PL IP | 192.0.2.30 |
+| Domain on DE IP | 203.0.113.10 |
 
 ---
 
