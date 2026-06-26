@@ -29,7 +29,7 @@
 ## 🚀 نصب (یک خط)
 
 ```bash
-bash <(curl -sSL https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/hiddify-multi-ip.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/mojtaba-glx/hiddify-multi-ip/main/hiddify-multi-ip.sh)
 ```
 
 > بعد از انتشار، `YOUR_USER/YOUR_REPO` رو جایگزین کن. برای تست محلی کافیه:
